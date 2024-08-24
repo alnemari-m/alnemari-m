@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://www.yourwebsite.com">Website</a> •
-  <a href="https://twitter.com/alneamri-m">Twitter</a>
+  <a href="https://twitter.com/alnemari-m">Twitter</a>
 </p>
 
 <!-- About section -->
@@ -22,7 +22,7 @@ I enjoy sharing my expertise with others, whether through academic research, tea
 
 - 💬 Ask me about: Deep Learning, TinyML, AI in Healthcare, and Computer Vision.
 
-- 📫 How to reach me: [@alneamri-m](https://twitter.com/alneamri-m)
+- 📫 How to reach me: [@alnemari-m](https://twitter.com/alnemari-m)
 
 - ⚡ Fun fact: I’m working on a game called "The Binding of Nmr: Journey Through Arabia," a 2D RPG set in a mystical rendition of ancient Arabia.
 
@@ -31,10 +31,10 @@ I enjoy sharing my expertise with others, whether through academic research, tea
 <!-- Connect section -->
 <h2>Connect with me</h2>
 <p>
-    <a href="https://linkedin.com/in/your_linkedin_profile"><img src="https://img.shields.io/badge/-Dr.%20Mohammed%20Alneamri-blue?style=plastic&amp;labelColor=blue&amp;logo=LinkedIn&amp;link=https://linkedin.com/in/your_linkedin_profile" alt="LinkedIn Badge"></a> 
-    <a href="https://twitter.com/alneamri-m"><img src="https://img.shields.io/badge/-Dr.%20Mohammed%20Alneamri-informational?style=plastic&amp;labelColor=informational&amp;logo=Twitter&amp;link=https://twitter.com/alneamri-m" alt="Twitter Badge"></a>
-    <a href="https://www.youtube.com/c/alnemari-m"><img src="https://img.shields.io/badge/-Dr.%20Mohammed%20Alneamri-informational?style=plastic&amp;labelColor=informational&amp;logo=YouTube&amp;link=https://www.youtube.com/c/alnemari-m" alt="Youtube Badge"></a>
-    <a href="https://medium.com/@alnemari-m"><img src="https://img.shields.io/badge/-Dr.%20Mohammed%20Alneamri-informational?style=plastic&amp;labelColor=informational&amp;logo=Medium&amp;link=https://medium.com/@alnemari-m" alt="Medium Badge"></a>
+    <a href="https://linkedin.com/in/your_linkedin_profile"><img src="https://img.shields.io/badge/-Dr.%20Mohammed%20Alnemari-blue?style=plastic&amp;labelColor=blue&amp;logo=LinkedIn&amp;link=https://linkedin.com/in/your_linkedin_profile" alt="LinkedIn Badge"></a> 
+    <a href="https://twitter.com/alnemari-m"><img src="https://img.shields.io/badge/-Dr.%20Mohammed%20Alnemari-informational?style=plastic&amp;labelColor=informational&amp;logo=Twitter&amp;link=https://twitter.com/alnemari-m" alt="Twitter Badge"></a>
+    <a href="https://www.youtube.com/c/alnemari-m"><img src="https://img.shields.io/badge/-Dr.%20Mohammed%20Alnemari-informational?style=plastic&amp;labelColor=informational&amp;logo=YouTube&amp;link=https://www.youtube.com/c/alnemari-m" alt="Youtube Badge"></a>
+    <a href="https://medium.com/@alnemari-m"><img src="https://img.shields.io/badge/-Dr.%20Mohammed%20Alnemari-informational?style=plastic&amp;labelColor=informational&amp;logo=Medium&amp;link=https://medium.com/@alnemari-m" alt="Medium Badge"></a>
 </p>
 
 <!-- Connect section: END -->
