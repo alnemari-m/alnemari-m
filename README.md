@@ -22,7 +22,10 @@ I enjoy sharing my expertise with others, whether through academic research, tea
 
 - 📫 How to reach me: [@alnemari-m](https://twitter.com/alnemari-m)
 
-- ⚡ Quote: "The will to power, not happiness, is the ultimate aim." — Friedrich Nietzsche
+- 📜 **Quote:**
+  <div style="background-color: #f0f0f0; padding: 10px; border-radius: 5px; margin: 10px 0;">
+    "The will to power, not happiness, is the ultimate aim." — Friedrich Nietzsche
+  </div>
 
 - ⚡ Fun fact: I’m working on a game called "The Binding of Nmr: Journey Through Arabia," a 2D RPG set in a mystical rendition of ancient Arabia.
 
@@ -31,10 +34,12 @@ I enjoy sharing my expertise with others, whether through academic research, tea
 <!-- Connect section -->
 <h2>Connect with me</h2>
 <p>
-    <a href="https://linkedin.com/in/your_linkedin_profile"><img src="https://img.shields.io/badge/-Alnemari-blue?style=plastic&amp;labelColor=blue&amp;logo=LinkedIn&amp;link=https://linkedin.com/in/your_linkedin_profile" alt="LinkedIn Badge"></a> 
+    <a href="https://linkedin.com/in/alnemari-mohammed-ph-d-b-eng-b6477b123/"><img src="https://img.shields.io/badge/-Alnemari-blue?style=plastic&amp;labelColor=blue&amp;logo=LinkedIn&amp;link=https://linkedin.com/in/alnemari-mohammed-ph-d-b-eng-b6477b123/" alt="LinkedIn Badge"></a> 
     <a href="https://twitter.com/alnemari-m"><img src="https://img.shields.io/badge/-Alnemari-informational?style=plastic&amp;labelColor=informational&amp;logo=Twitter&amp;link=https://twitter.com/alnemari-m" alt="Twitter Badge"></a>
     <a href="https://www.youtube.com/c/alnemari-m"><img src="https://img.shields.io/badge/-Alnemari-informational?style=plastic&amp;labelColor=informational&amp;logo=YouTube&amp;link=https://www.youtube.com/c/alnemari-m" alt="Youtube Badge"></a>
-    <a href="https://medium.com/@alnemari-m"><img src="https://img.shields.io/badge/-Alnemari-informational?style=plastic&amp;labelColor=informational&amp;logo=Medium&amp;link=https://medium.com/@alnemari-m" alt="Medium Badge"></a>
+    <a href="https://alnemari.notion.site/315af517011b4ae18c85b0942b8c273f?pvs=4"><img src="https://img.shields.io/badge/-My%20Blogs%20on%20Notion-informational?style=plastic&amp;labelColor=informational&amp;logo=Notion&amp;link=https://alnemari.notion.site/315af517011b4ae18c85b0942b8c273f?pvs=4" alt="Notion Badge"></a>
+    <a href="https://calendly.com/malnemar"><img src="https://img.shields.io/badge/-Schedule%20a%20Meeting%20with%20Me-informational?style=plastic&amp;labelColor=informational&amp;logo=Calendly&amp;link=https://calendly.com/malnemar" alt="Calendly Badge"></a>
+    <a href="https://discord.com/users/alnemari_m"><img src="https://img.shields.io/badge/-Join%20Me%20on%20Discord-informational?style=plastic&amp;labelColor=informational&amp;logo=Discord&amp;link=https://discord.com/users/alnemari_m" alt="Discord Badge"></a>
 </p>
 
 <!-- Connect section: END -->
@@ -65,12 +70,13 @@ I enjoy sharing my expertise with others, whether through academic research, tea
 <div style="position: relative; height: 100%;">
 
   <!-- Bottom Right GIF -->
-  <img src="https://i.makeagif.com/media/5-02-2018/uoh7rj.gif" style="position: absolute; bottom: 0; right: 0; width: 550px; height: 350px;" alt="Coding GIF">
+  <img src="https://i.makeagif.com/media/5-02-2018/uoh7rj.gif" style="position: absolute; bottom: 0; right: 0; width: 250px; height: 250px;" alt="Coding GIF">
 
   <!-- Middle Right GIF -->
   <img src="https://media.tenor.com/rUCx_gQV8KcAAAAM/the-i-tcrowd-moss.gif" style="position: absolute; bottom: 250px; right: 0; width: 250px; height: 250px;" alt="IT Crowd Moss GIF">
 
- 
+  <!-- Top Right GIF -->
+  <img src="https://i.gifer.com/embedded/download/42gD.gif" style="position: absolute; top: 0; right: 0; width: 250px; height: 250px;" alt="Gifer GIF">
 
 </div>
 
