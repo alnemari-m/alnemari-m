@@ -65,13 +65,12 @@ I enjoy sharing my expertise with others, whether through academic research, tea
 <div style="position: relative; height: 100%;">
 
   <!-- Bottom Right GIF -->
-  <img src="https://i.makeagif.com/media/5-02-2018/uoh7rj.gif" style="position: absolute; bottom: 0; right: 0; width: 250px; height: 250px;" alt="Coding GIF">
+  <img src="https://i.makeagif.com/media/5-02-2018/uoh7rj.gif" style="position: absolute; bottom: 0; right: 0; width: 550px; height: 350px;" alt="Coding GIF">
 
   <!-- Middle Right GIF -->
   <img src="https://media.tenor.com/rUCx_gQV8KcAAAAM/the-i-tcrowd-moss.gif" style="position: absolute; bottom: 250px; right: 0; width: 250px; height: 250px;" alt="IT Crowd Moss GIF">
 
-  <!-- Top Right GIF -->
-  <img src="https://i.gifer.com/embedded/download/42gD.gif" style="position: absolute; top: 0; right: 0; width: 250px; height: 250px;" alt="Gifer GIF">
+ 
 
 </div>
 
