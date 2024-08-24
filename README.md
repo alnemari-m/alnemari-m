@@ -1,5 +1,5 @@
 <!-- Heading -->
-<h3 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi there! I'm Alnemari</h3>
+<h3 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi there! I'm Dr. Mohammed Alnemari</h3>
 
 <!-- Profile Views -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alnemari-m&label=Profile%20views&color=0e75b6&style=flat" alt="alnemari-m" /></p>
@@ -61,17 +61,17 @@ I enjoy sharing my expertise with others, whether through academic research, tea
 
 <!-- GitHub section: END -->
 
-<!-- GIFs in Corners -->
+<!-- GIFs in Right Corner -->
 <div style="position: relative; height: 100%;">
 
   <!-- Bottom Right GIF -->
-  <img src="https://i.makeagif.com/media/5-02-2018/uoh7rj.gif" style="position: absolute; bottom: 0; right: 0; width: 150px; height: 150px;" alt="Coding GIF">
+  <img src="https://i.makeagif.com/media/5-02-2018/uoh7rj.gif" style="position: absolute; bottom: 0; right: 0; width: 250px; height: 250px;" alt="Coding GIF">
 
-  <!-- Bottom Left GIF -->
-  <img src="https://media.tenor.com/rUCx_gQV8KcAAAAM/the-i-tcrowd-moss.gif" style="position: absolute; bottom: 0; left: 0; width: 150px; height: 150px;" alt="IT Crowd Moss GIF">
+  <!-- Middle Right GIF -->
+  <img src="https://media.tenor.com/rUCx_gQV8KcAAAAM/the-i-tcrowd-moss.gif" style="position: absolute; bottom: 250px; right: 0; width: 250px; height: 250px;" alt="IT Crowd Moss GIF">
 
   <!-- Top Right GIF -->
-  <img src="https://i.gifer.com/embedded/download/42gD.gif" style="position: absolute; top: 0; right: 0; width: 150px; height: 150px;" alt="Gifer GIF">
+  <img src="https://i.gifer.com/embedded/download/42gD.gif" style="position: absolute; top: 0; right: 0; width: 250px; height: 250px;" alt="Gifer GIF">
 
 </div>
 
