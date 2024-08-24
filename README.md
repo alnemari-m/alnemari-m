@@ -1,7 +1,7 @@
 [![Github Stars](https://img.shields.io/badge/stars-nominate-brightgreen?logo=github)](https://stars.github.com/nominate/)
 ![Profile Views](https://komarev.com/ghpvc/?username=Dr-Mohammed-Alneamri&style=flat)
 
-<h1 align="center">Hi 👋, I'm Mohammed Alneamri</h1>
+<h1 align="center">Hi 👋, I'm Mohammed Alnemari</h1>
 <h3 align="center">Assistant Professor | AI & TinyML Enthusiast | Game Developer</h3>
 
 <br/>
