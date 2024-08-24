@@ -61,6 +61,11 @@ I enjoy sharing my expertise with others, whether through academic research, tea
 
 <!-- GitHub section: END -->
 
+<!-- GIF in Bottom Right Corner -->
+<div style="position: relative; height: 100%;">
+  <img src="https://i.makeagif.com/media/5-02-2018/uoh7rj.gif" style="position: absolute; bottom: 0; right: 0; width: 150px; height: 150px;" alt="Coding GIF">
+</div>
+
 <!-- Profile Views -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alnemari-m&label=Profile%20views&color=0e75b6&style=flat" alt="alnemari-m" /></p>
 
